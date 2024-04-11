@@ -35,5 +35,5 @@ class ListeSoirees: UIViewController {
 ouvrir l'app plans quand on clique sur une soirée dans la liste (chiant à faire, si on le met pas c'est pas grave)
  
  
- voir si on peut conserver les données quand on ferme l'appli (optionnel) (en vrai pas besoin)
+ voir si on peut conserver les données quand on ferme l'appli (optionnel) (en vrai pas grave si ça y est pas)
  */
