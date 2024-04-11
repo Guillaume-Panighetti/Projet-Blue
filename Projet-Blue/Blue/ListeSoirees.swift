@@ -32,7 +32,7 @@ class ListeSoirees: UIViewController {
  
  afficher des nouveaux boutons dans la liste quand on clique sur "commencer" dans la vue "adresse soirées" (à faire)
 
-ouvrir l'app plans quand on clique sur une soirée dans la liste (chiant à faire, si on le met pas c'est pas grave)
+ouvrir l'app plans avec l'itinéraire quand on clique sur une soirée dans la liste (chiant à faire, au pire demande au prof mais si on le met pas c'est pas grave)
  
  
  voir si on peut conserver les données quand on ferme l'appli (optionnel) (en vrai pas grave si ça y est pas)
